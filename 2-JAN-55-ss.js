@@ -15,3 +15,11 @@
 //1. internal js
 //2. external js .
 
+
+
+ var name1="IQ INDIA FROM DELHI"
+ document.write(name1)
+ document.write("<hr>")
+ document.write("How are you")
+
+
