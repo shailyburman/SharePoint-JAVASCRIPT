@@ -9,6 +9,7 @@ let num1=56
 let num2=70
 let res=num1+num2
 document.write(`<h1"> <span style="color:green">${num1}</spam> +${num2} = ${res}</h1>`)
+
 console.log(res)
 
 
